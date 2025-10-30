@@ -181,3 +181,11 @@ In this lab, you’ll gain hands-on experience deploying microservices to AKS, c
     - **Hint**: start by investigating `nginx.conf` file. 
 
 
+```
+
+
+## Submission
+
+### What to Submit
+1. **Demo Video (Max 5 minutes)**  
+   - Record a short demo video for the lab showing the deployed app on your AKS cluster.
