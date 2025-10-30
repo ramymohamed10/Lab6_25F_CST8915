@@ -181,9 +181,7 @@ In this lab, you’ll gain hands-on experience deploying microservices to AKS, c
     - **Hint**: start by investigating `nginx.conf` file. 
 
 
-```
-
-
+---
 ## Submission
 
 ### What to Submit
